@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique! 👋
 
-### Desenvolvedor Front-End | Tech Lead | Estudante de ADS
+### Desenvolvedor Front-End | Tech Lead 
 
 Sou um apaixonado por tecnologia focado em criar experiências digitais incríveis. Atualmente, atuo como **Tech Lead na Veridion**, onde lidero projetos técnicos e busco constantemente a excelência em UI/UX com React e TypeScript. Paralelamente, estou expandindo meus horizontes para o **Back-End com Java e Spring Boot** para me tornar um desenvolvedor Full-Stack completo.
 
