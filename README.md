@@ -8,7 +8,7 @@ Sou um apaixonado por tecnologia focado em criar experiências digitais incríve
 
 ### 🚀 Sobre mim
 
-- 🏢 **Tech Lead** na Veridion.
+- 🏢 **Desenvolvedor** na Veridion.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na USCS.
 - 💻 Focado em: **React, TypeScript, Java e Spring Boot**.
 - 🎯 Objetivo: Evoluir arquiteturas escaláveis e liderar times de alta performance.
