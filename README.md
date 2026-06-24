@@ -9,7 +9,7 @@ Sou um apaixonado por tecnologia focado em criar experiências digitais incríve
 ### 🚀 Sobre mim
 
 - 🏢 **Desenvolvedor** na Veridion.
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na USCS.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na USCS.
 - 💻 Focado em: **React, TypeScript, Java e Spring Boot**.
 - 🎯 Objetivo: Evoluir arquiteturas escaláveis e liderar times de alta performance.
 - 📧 Contato: [henriquepbarrios2@gmail.com](mailto:henriquepbarrios2@gmail.com)
