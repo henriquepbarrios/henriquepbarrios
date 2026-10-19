@@ -2,13 +2,13 @@
 
 ### Desenvolvedor Full-Stack | Tech Lead 
 
-Sou um apaixonado por tecnologia focado em criar experiências digitais incríveis. Atualmente, atuo como **Tech Lead na Veridion**, onde lidero projetos técnicos e busco constantemente a excelência em UI/UX com React e TypeScript. Paralelamente, estou expandindo meus horizontes para o **Back-End com Java e Spring Boot** para me tornar um desenvolvedor Full-Stack completo.
+Sou um apaixonado por tecnologia focado em criar experiências digitais incríveis. Atualmente, atuo como *Desenvolvedor Full-Stack**, onde atuo lidero projetos técnicos e busco constantemente a excelência em UI/UX com React e TypeScript. Paralelamente, estou expandindo meus horizontes para o **Back-End com Java e Spring Boot** para me tornar um desenvolvedor Full-Stack completo.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🏢 **Desenvolvedor** na Veridion.
+- 🏢 **Desenvolvedor Full-Stack**.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na USCS.
 - 💻 Focado em: **React, TypeScript, Java e Spring Boot**.
 - 🎯 Objetivo: Evoluir arquiteturas escaláveis e liderar times de alta performance.
